@@ -15,3 +15,6 @@ Adventure Camp adalah program berbasis bahasa C untuk membantu penyewaan peralat
 3. Menghitung subtotal, diskon, dan total pembayaran.
 4. Menampilkan struk penyewaan.
 5. Melihat riwayat transaksi dan total pendapatan.
+
+## Hasil Srenschoot
+Cuplikan layar 2026-10-28 115711.png
